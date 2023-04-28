@@ -1,1 +1,1 @@
-# EKPA
+# Example of README.MD
